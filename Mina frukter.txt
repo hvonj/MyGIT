@@ -21,3 +21,5 @@ päron
 satsuma
 sharon
 äpple
+ananas
+plommon
