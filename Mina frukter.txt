@@ -1,0 +1,27 @@
+ananas
+apelsin
+aprikos
+banan[14]
+carambola (stjärnfrukt)
+citron
+citrusfrukt
+clementin
+carambola
+granatäpple
+grapefrukt
+kaktusfikon
+kumquat
+kiwi
+lime
+mandarin
+mango
+melon
+nektarin
+papaya
+passionsfrukt
+persika
+plommon
+päron
+satsuma
+sharon
+äpple
